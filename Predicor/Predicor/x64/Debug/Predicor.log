@@ -1,0 +1,9 @@
+﻿  Functions.cpp
+D:\программирование\с++projects\Predicor\Predicor\Functions.cpp(33,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\программирование\с++projects\Predicor\Predicor\Functions.cpp(38,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\программирование\с++projects\Predicor\Predicor\Functions.cpp(43,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\программирование\с++projects\Predicor\Predicor\Functions.cpp(48,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\программирование\с++projects\Predicor\Predicor\Functions.cpp(60,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\программирование\с++projects\Predicor\Predicor\Functions.cpp(158,35): warning C4305: инициализация: усечение из "__int64" в "float"
+D:\программирование\с++projects\Predicor\Predicor\Functions.cpp(170,35): warning C4305: инициализация: усечение из "__int64" в "float"
+  Predicor.vcxproj -> D:\программирование\с++projects\Predicor\x64\Debug\Predicor.exe
